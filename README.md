@@ -2,7 +2,7 @@
 
 # Blog Application ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
  
-> This project is a blog that allows the user to create posts, comment and like them. The whole project is based on the ERDiagram below:
+> This project is a blog that allows the user to create posts, comment, and like them. The whole project is based on the ERDiagram below:
 
 ![blog_app_diagram](./app/assets/images/blog_app_erd.png)
 
@@ -54,7 +54,7 @@ Run the following command to install all dependencies.
 $ bundle install
 ```
 ```
-$ code .
+$ code.
 ```
 ### Run tests
 
